@@ -1,0 +1,84 @@
+# Hi, I'm Achiene Evans 👋
+
+## Welcome to My GitHub Profile
+
+I'm a passionate **Full-Stack Web Developer** and **Graphic Designer** dedicated to creating professional, user-centric digital solutions. With expertise in both development and design, I bring a unique perspective to every project I undertake.
+
+---
+
+## 🎯 What I Do
+
+### 💻 Web Development
+- Build responsive, high-performance websites and web applications
+- Full-stack development using modern frameworks and technologies
+- Focus on clean code, maintainability, and best practices
+- Optimize for speed, security, and user experience
+
+### 🎨 Graphic Design
+- Create visually stunning and professional designs
+- Brand identity and visual communications
+- UI/UX design for web and mobile applications
+- Design systems and comprehensive brand guidelines
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- HTML5, CSS3, JavaScript
+- React, Vue.js, or Angular
+- Responsive Design & Mobile-First Approach
+
+**Backend:**
+- Node.js, Python, or PHP
+- RESTful APIs & Database Design
+- Authentication & Security
+
+**Design Tools:**
+- Adobe Creative Suite (Photoshop, Illustrator, XD)
+- Figma, Sketch
+- Prototyping & Wireframing
+
+---
+
+## 🚀 Featured Projects
+
+I'm currently working on exciting projects that showcase the intersection of beautiful design and powerful functionality. Check out my repositories to see what I'm building!
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=achiengevans372-jpg&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always interested in:
+- **Freelance Projects** – Web design & development services
+- **Open Source Contributions** – Contributing to meaningful projects
+- **Partnerships** – Collaborating with talented developers and designers
+- **Innovative Ideas** – Bringing creative concepts to life
+
+---
+
+## 📫 Get In Touch
+
+- 💼 [Portfolio](link-to-your-portfolio)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
+
+---
+
+## ✨ Fun Facts
+
+- 🎯 Passionate about creating seamless user experiences
+- 🎨 Design-driven development approach
+- 📚 Constantly learning new technologies and design trends
+- ☕ Fueled by coffee and creative challenges
+
+---
+
+**Thank you for visiting! Feel free to explore my repositories and don't hesitate to reach out.** 🙌
