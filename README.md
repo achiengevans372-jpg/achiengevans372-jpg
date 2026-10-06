@@ -1,4 +1,4 @@
-# Hi, I'm Achiene Evans 👋
+# Hi, I'm Achieng Evans 👋
 
 ## Welcome to My GitHub Profile
 
@@ -66,9 +66,9 @@ I'm always interested in:
 ## 📫 Get In Touch
 
 - 💼 [Portfolio](link-to-your-portfolio)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
+- 📧 Email: (achiegevans372@gmail.com)
+- 🔗 LinkedIn: 
+- 🐦 Twitter: 
 
 ---
 
