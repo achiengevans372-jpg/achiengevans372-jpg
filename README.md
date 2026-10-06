@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile
 
-I'm a passionate **Full-Stack Web Developer** and **Graphic Designer** dedicated to creating professional, user-centric digital solutions. With expertise in both development and design, I bring a unique perspective to every project I undertake.
+I'm a passionate **Full-Stack Web Developer** and **Graphic Designer** dedicated to creating professional, user-centric digital solutions. With expertise in both development and design, I bring a unique blend of creativity and technical problem-solving to every project.
 
 ---
 
@@ -24,17 +24,31 @@ I'm a passionate **Full-Stack Web Developer** and **Graphic Designer** dedicated
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-- HTML5, CSS3, JavaScript
-- React, Vue.js, or Angular
-- Responsive Design & Mobile-First Approach
+### Languages
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Python
+- PHP
+- SQL
 
-**Backend:**
-- Node.js, Python, or PHP
+### Frontend
+- React
+- Vue.js
+- Angular
+- Next.js
+- Responsive Design & Mobile-First Approach
+- Tailwind CSS, Bootstrap, and other UI frameworks
+
+### Backend
+- Node.js
+- Express.js
 - RESTful APIs & Database Design
 - Authentication & Security
+- MongoDB, MySQL, and PostgreSQL
 
-**Design Tools:**
+### Design Tools
 - Adobe Creative Suite (Photoshop, Illustrator, XD)
 - Figma, Sketch
 - Prototyping & Wireframing
